@@ -1,3 +1,4 @@
+# after running this run the split frames program to extact all your frames 
 from pathlib import Path 
 from telethon.sync import TelegramClient
 api_id = API_ID
