@@ -1,7 +1,7 @@
-# pytorch
-this repository here to represent the things that im build and will build im the future with pytorch
-such as 
-1. vision - from simple to advance CNN
+# Pytorch
+This repository here to represent the work and my learning journey with pytorch 
+ 
+1. Vision - from simple to advance CNN
 2. TTS  - to convert pdf books to audio books
-3. generative - generate text from sources (e.g. tiny_shakespeare)
- # and more...
+3. Generative - generate text from sources (e.g. tiny_shakespeare)
+# and more...
